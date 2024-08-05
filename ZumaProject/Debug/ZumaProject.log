@@ -1,0 +1,7 @@
+﻿  Listball.cpp
+  Main.cpp
+C:\Sharky\Projects\Zuma Game\ZumaProject\Listball.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Listball.cpp')
+  
+C:\Sharky\Projects\Zuma Game\ZumaProject\Main.cpp(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
